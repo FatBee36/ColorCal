@@ -3,6 +3,4 @@
 
 min/max refresh rate = 60/120hz
 
-saturation = +7%
-
 custom color calibration
